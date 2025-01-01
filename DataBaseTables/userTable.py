@@ -81,7 +81,10 @@ class UserTable():
             deleteUserModel.phoneNumber
         )
         await self.__dataBaseCred.systemDatabase.execute(query)
-        return {}
+        return {
+            "data": {
+                "message":"User Deleted Successfully"}
+        }
 
     async def getUserData(self,userId):
 
