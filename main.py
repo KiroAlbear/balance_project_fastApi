@@ -86,7 +86,7 @@ async def deleteUsers():
     return await userTableFunctions.deleteAllUsers()
 
 @app.post('/deleteOneUser')
-async def deleteUsers(r:DeleteUserModel):
+async def deleteOneUsers(r:DeleteUserModel):
     return await userTableFunctions.deleteOneUser(r)
 
 @app.post('/addToUserWallet')

@@ -59,7 +59,8 @@ class UserTable():
         
         else:
            user_id = await self.__dataBaseCred.systemDatabase.execute(query)
-           return await self.getUserData(user_id)
+           return {
+               "data": await self.getUserData(user_id)}
     
     async def getAllUsers(self):
         query = self.__usersTable.select()
