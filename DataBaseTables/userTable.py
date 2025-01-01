@@ -6,6 +6,7 @@ from DataBaseUtils.dataBaseCommonFunction import DataBaseCommonFunctions
 from Models.entityModels.loginModel import LoginModel
 from Models.entityModels.registerUserModel import RegisterUserModel
 from Models.entityModels.walletRechargeOrWithdrawModel import WalletRechargeOrWithdrawModel
+from Models.entityModels.deleteUserModel import DeleteUserModel
 
 
 class UserTable():
@@ -71,6 +72,15 @@ class UserTable():
         query = self.__usersTable.delete()
         await self.__dataBaseCred.systemDatabase.execute(query)
         return await self.getAllUsers()
+    
+    async def deleteOneUser(self,deleteUserModel:DeleteUserModel):
+        query = "DELETE FROM {} WHERE {} = '{}'".format(
+            self.tableName,
+            self.phoneNumber_ColumnName,
+            deleteUserModel.phoneNumber
+        )
+        await self.__dataBaseCred.systemDatabase.execute(query)
+        return {}
 
     async def getUserData(self,userId):
 

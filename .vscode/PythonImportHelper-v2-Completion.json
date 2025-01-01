@@ -419,6 +419,30 @@
         "documentation": {}
     },
     {
+        "label": "DeleteUserModel",
+        "importPath": "Models.entityModels.deleteUserModel",
+        "description": "Models.entityModels.deleteUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.deleteUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteUserModel",
+        "importPath": "Models.entityModels.deleteUserModel",
+        "description": "Models.entityModels.deleteUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.deleteUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
         "label": "BaseModel",
         "importPath": "pydantic",
         "description": "pydantic",
@@ -681,6 +705,15 @@
         "description": "Models.entityModels.deleteProviderPackageModel",
         "peekOfCode": "class DeleteProviderPackageModel(BaseModel):\n    providerId:int\n    packageId:int",
         "detail": "Models.entityModels.deleteProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteUserModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.deleteUserModel",
+        "description": "Models.entityModels.deleteUserModel",
+        "peekOfCode": "class DeleteUserModel(BaseModel):\n    phoneNumber:str",
+        "detail": "Models.entityModels.deleteUserModel",
         "documentation": {}
     },
     {

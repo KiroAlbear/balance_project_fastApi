@@ -7,6 +7,7 @@ from unicodedata import name
 from fastapi import Depends, FastAPI
 import databases
 from imports import *;
+from Models.entityModels.deleteUserModel import DeleteUserModel
 
 # from StripePayment.stripePayments import StripePayments
 
@@ -83,6 +84,10 @@ async def getAllUsers():
 @app.get('/deleteAllUsers')
 async def deleteUsers():
     return await userTableFunctions.deleteAllUsers()
+
+@app.post('/deleteOneUser')
+async def deleteUsers(r:DeleteUserModel):
+    return await userTableFunctions.deleteOneUser(r)
 
 @app.post('/addToUserWallet')
 async def rechargeUserWallet(r:WalletRechargeOrWithdrawModel):
