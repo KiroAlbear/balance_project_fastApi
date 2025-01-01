@@ -1,0 +1,821 @@
+[
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCommonFunctions",
+        "importPath": "DataBaseUtils.dataBaseCommonFunction",
+        "description": "DataBaseUtils.dataBaseCommonFunction",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCommonFunction",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCommonFunctions",
+        "importPath": "DataBaseUtils.dataBaseCommonFunction",
+        "description": "DataBaseUtils.dataBaseCommonFunction",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCommonFunction",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCommonFunctions",
+        "importPath": "DataBaseUtils.dataBaseCommonFunction",
+        "description": "DataBaseUtils.dataBaseCommonFunction",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCommonFunction",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCommonFunctions",
+        "importPath": "DataBaseUtils.dataBaseCommonFunction",
+        "description": "DataBaseUtils.dataBaseCommonFunction",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCommonFunction",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCommonFunctions",
+        "importPath": "DataBaseUtils.dataBaseCommonFunction",
+        "description": "DataBaseUtils.dataBaseCommonFunction",
+        "isExtraImport": true,
+        "detail": "DataBaseUtils.dataBaseCommonFunction",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterConnectedUserToProviderModel",
+        "importPath": "Models.entityModels.registerConnectedUserToProviderModel",
+        "description": "Models.entityModels.registerConnectedUserToProviderModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.registerConnectedUserToProviderModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterConnectedUserToProviderModel",
+        "importPath": "Models.entityModels.registerConnectedUserToProviderModel",
+        "description": "Models.entityModels.registerConnectedUserToProviderModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.registerConnectedUserToProviderModel",
+        "documentation": {}
+    },
+    {
+        "label": "GetConnectedUserModel",
+        "importPath": "Models.entityModels.getConnectedUserModel",
+        "description": "Models.entityModels.getConnectedUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.getConnectedUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "GetConnectedUserModel",
+        "importPath": "Models.entityModels.getConnectedUserModel",
+        "description": "Models.entityModels.getConnectedUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.getConnectedUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "GetConnectedUserModel",
+        "importPath": "Models.entityModels.getConnectedUserModel",
+        "description": "Models.entityModels.getConnectedUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.getConnectedUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseObject",
+        "importPath": "Models.responseModels.responseObject",
+        "description": "Models.responseModels.responseObject",
+        "isExtraImport": true,
+        "detail": "Models.responseModels.responseObject",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseObject",
+        "importPath": "Models.responseModels.responseObject",
+        "description": "Models.responseModels.responseObject",
+        "isExtraImport": true,
+        "detail": "Models.responseModels.responseObject",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "databases",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "databases",
+        "description": "databases",
+        "detail": "databases",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderTable",
+        "importPath": "DataBaseTables.providerTable",
+        "description": "DataBaseTables.providerTable",
+        "isExtraImport": true,
+        "detail": "DataBaseTables.providerTable",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderTable",
+        "importPath": "DataBaseTables.providerTable",
+        "description": "DataBaseTables.providerTable",
+        "isExtraImport": true,
+        "detail": "DataBaseTables.providerTable",
+        "documentation": {}
+    },
+    {
+        "label": "AddProviderPackageModel",
+        "importPath": "Models.entityModels.addProviderPackageModel",
+        "description": "Models.entityModels.addProviderPackageModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.addProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "AddProviderPackageModel",
+        "importPath": "Models.entityModels.addProviderPackageModel",
+        "description": "Models.entityModels.addProviderPackageModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.addProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "EditProviderPackageModel",
+        "importPath": "Models.entityModels.editProviderPackageModel",
+        "description": "Models.entityModels.editProviderPackageModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.editProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "EditProviderPackageModel",
+        "importPath": "Models.entityModels.editProviderPackageModel",
+        "description": "Models.entityModels.editProviderPackageModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.editProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteProviderPackageModel",
+        "importPath": "Models.entityModels.deleteProviderPackageModel",
+        "description": "Models.entityModels.deleteProviderPackageModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.deleteProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteProviderPackageModel",
+        "importPath": "Models.entityModels.deleteProviderPackageModel",
+        "description": "Models.entityModels.deleteProviderPackageModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.deleteProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "walk",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "email",
+        "description": "email",
+        "detail": "email",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "importlib.metadata",
+        "description": "importlib.metadata",
+        "isExtraImport": true,
+        "detail": "importlib.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "importlib.metadata",
+        "description": "importlib.metadata",
+        "isExtraImport": true,
+        "detail": "importlib.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "select",
+        "description": "select",
+        "isExtraImport": true,
+        "detail": "select",
+        "documentation": {}
+    },
+    {
+        "label": "Self",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "isExtraImport": true,
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "isExtraImport": true,
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "LoginModel",
+        "importPath": "Models.entityModels.loginModel",
+        "description": "Models.entityModels.loginModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.loginModel",
+        "documentation": {}
+    },
+    {
+        "label": "LoginModel",
+        "importPath": "Models.entityModels.loginModel",
+        "description": "Models.entityModels.loginModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.loginModel",
+        "documentation": {}
+    },
+    {
+        "label": "LoginModel",
+        "importPath": "Models.entityModels.loginModel",
+        "description": "Models.entityModels.loginModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.loginModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterProviderModel",
+        "importPath": "Models.entityModels.registerProviderModel",
+        "description": "Models.entityModels.registerProviderModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.registerProviderModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterProviderModel",
+        "importPath": "Models.entityModels.registerProviderModel",
+        "description": "Models.entityModels.registerProviderModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.registerProviderModel",
+        "documentation": {}
+    },
+    {
+        "label": "WalletRechargeOrWithdrawModel",
+        "importPath": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "description": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "documentation": {}
+    },
+    {
+        "label": "WalletRechargeOrWithdrawModel",
+        "importPath": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "description": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "documentation": {}
+    },
+    {
+        "label": "WalletRechargeOrWithdrawModel",
+        "importPath": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "description": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserModel",
+        "importPath": "Models.entityModels.registerUserModel",
+        "description": "Models.entityModels.registerUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.registerUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserModel",
+        "importPath": "Models.entityModels.registerUserModel",
+        "description": "Models.entityModels.registerUserModel",
+        "isExtraImport": true,
+        "detail": "Models.entityModels.registerUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "DataObject",
+        "importPath": "Models.responseModels.dataObject",
+        "description": "Models.responseModels.dataObject",
+        "isExtraImport": true,
+        "detail": "Models.responseModels.dataObject",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderPackagesTable",
+        "importPath": "DataBaseTables.providerPackagesTable",
+        "description": "DataBaseTables.providerPackagesTable",
+        "isExtraImport": true,
+        "detail": "DataBaseTables.providerPackagesTable",
+        "documentation": {}
+    },
+    {
+        "label": "UserTable",
+        "importPath": "DataBaseTables.userTable",
+        "description": "DataBaseTables.userTable",
+        "isExtraImport": true,
+        "detail": "DataBaseTables.userTable",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderConnectedUsersTable",
+        "importPath": "DataBaseTables.providerConnectedUsers",
+        "description": "DataBaseTables.providerConnectedUsers",
+        "isExtraImport": true,
+        "detail": "DataBaseTables.providerConnectedUsers",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "importPath": "atexit",
+        "description": "atexit",
+        "isExtraImport": true,
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "lib2to3.pytree",
+        "description": "lib2to3.pytree",
+        "isExtraImport": true,
+        "detail": "lib2to3.pytree",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "*;",
+        "importPath": "imports",
+        "description": "imports",
+        "isExtraImport": true,
+        "detail": "imports",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderConnectedUsersTable",
+        "kind": 6,
+        "importPath": "DataBaseTables.providerConnectedUsers",
+        "description": "DataBaseTables.providerConnectedUsers",
+        "peekOfCode": "class ProviderConnectedUsersTable():\n    providerConnectedUsersTableName = \"providerConnectedUsers\"\n    __providerConnectedUsersTable = 0\n    __id_ColumnName = \"id\"\n    __provider_uuid_ColumnName = \"provider_uuid\"\n    __userMacAddress_ColumnName = \"user_mac_address\"\n    __userIpAddress_ColumnName = \"user_ip_address\"\n    __userExpireTimeStamp_ColumnName = \"user_expire_timeStamp\"\n    __dataBaseCred = DataBaseCredentials()\n    __dataBaseCommonFunctions = DataBaseCommonFunctions()",
+        "detail": "DataBaseTables.providerConnectedUsers",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderPackagesTable",
+        "kind": 6,
+        "importPath": "DataBaseTables.providerPackagesTable",
+        "description": "DataBaseTables.providerPackagesTable",
+        "peekOfCode": "class ProviderPackagesTable():\n    tableName = \"providersPackages\"\n    providerTableName = ProviderTable().providerTableName\n    providerTableId_ColumnName = ProviderTable().id_ColumnName\n    id_ColumnName = \"id\"\n    myProviderTableId_ColumnName = \"providerId\"\n    price_ColumnName = \"price\"\n    size_ColumnName = \"size\"\n    __providerPackagesTable = 0\n    __dataBaseCred = DataBaseCredentials()",
+        "detail": "DataBaseTables.providerPackagesTable",
+        "documentation": {}
+    },
+    {
+        "label": "ProviderTable",
+        "kind": 6,
+        "importPath": "DataBaseTables.providerTable",
+        "description": "DataBaseTables.providerTable",
+        "peekOfCode": "class ProviderTable():\n    providerTableName = \"providers\"\n    id_ColumnName = \"id\"\n    uuid_ColumnName = \"uuid\"\n    name_ColumnName = \"name\"\n    email_ColumnName = \"email\"\n    wallet_ColumnName = \"wallet\"\n    phoneNumber_ColumnName = \"phoneNumber\"\n    password_ColumnName = \"password\"\n    __providerTable = 0",
+        "detail": "DataBaseTables.providerTable",
+        "documentation": {}
+    },
+    {
+        "label": "UserTable",
+        "kind": 6,
+        "importPath": "DataBaseTables.userTable",
+        "description": "DataBaseTables.userTable",
+        "peekOfCode": "class UserTable():\n    tableName = \"users\"\n    id_ColumnName = \"id\"\n    name_ColumnName = \"name\"\n    wallet_ColumnName = \"wallet\"\n    phoneNumber_ColumnName = \"phoneNumber\"\n    __usersTable = 0\n    __dataBaseCred = DataBaseCredentials()\n    __dataBaseCommonFunctions = DataBaseCommonFunctions()\n    def createAndReturnUserTable(self):",
+        "detail": "DataBaseTables.userTable",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCommonFunctions",
+        "kind": 6,
+        "importPath": "DataBaseUtils.dataBaseCommonFunction",
+        "description": "DataBaseUtils.dataBaseCommonFunction",
+        "peekOfCode": "class DataBaseCommonFunctions():\n    dataBaseCred = DataBaseCredentials()\n    async def deleteTableFromDataBase(self, tableName):\n        query = f\"DROP Table '{tableName}'\"\n        return await self.dataBaseCred.systemDatabase.execute(query)\n    def createTable(self,funtionToCreateTable):\n        newTable = funtionToCreateTable()\n        engine = sqlalchemy.create_engine(\n        self.dataBaseCred.DATABASE_URL,connect_args={\"check_same_thread\": False}\n        )",
+        "detail": "DataBaseUtils.dataBaseCommonFunction",
+        "documentation": {}
+    },
+    {
+        "label": "DataBaseCredentials",
+        "kind": 6,
+        "importPath": "DataBaseUtils.dataBaseCredintials",
+        "description": "DataBaseUtils.dataBaseCredintials",
+        "peekOfCode": "class DataBaseCredentials():\n    DATABASE_URL = \"sqlite:///./users.db\"\n    systemDatabase = databases.Database(DATABASE_URL)\n    metaData = sqlalchemy.MetaData()",
+        "detail": "DataBaseUtils.dataBaseCredintials",
+        "documentation": {}
+    },
+    {
+        "label": "AddProviderPackageModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.addProviderPackageModel",
+        "description": "Models.entityModels.addProviderPackageModel",
+        "peekOfCode": "class AddProviderPackageModel(BaseModel):\n    providerId:int\n    price:int\n    sizeMB:int",
+        "detail": "Models.entityModels.addProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteProviderPackageModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.deleteProviderPackageModel",
+        "description": "Models.entityModels.deleteProviderPackageModel",
+        "peekOfCode": "class DeleteProviderPackageModel(BaseModel):\n    providerId:int\n    packageId:int",
+        "detail": "Models.entityModels.deleteProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "EditProviderPackageModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.editProviderPackageModel",
+        "description": "Models.entityModels.editProviderPackageModel",
+        "peekOfCode": "class EditProviderPackageModel(BaseModel):\n    providerId:int\n    packageId:int\n    newPrice:int\n    newSizeMB:int",
+        "detail": "Models.entityModels.editProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "GetConnectedUserModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.getConnectedUserModel",
+        "description": "Models.entityModels.getConnectedUserModel",
+        "peekOfCode": "class GetConnectedUserModel(BaseModel):\n    provider_uui:str",
+        "detail": "Models.entityModels.getConnectedUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "GetProviderPackageModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.getProviderPackageModel",
+        "description": "Models.entityModels.getProviderPackageModel",
+        "peekOfCode": "class GetProviderPackageModel(BaseModel):\n    providerId:int",
+        "detail": "Models.entityModels.getProviderPackageModel",
+        "documentation": {}
+    },
+    {
+        "label": "LoginModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.loginModel",
+        "description": "Models.entityModels.loginModel",
+        "peekOfCode": "class LoginModel(BaseModel):\n    email:str\n    password:str",
+        "detail": "Models.entityModels.loginModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterConnectedUserToProviderModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.registerConnectedUserToProviderModel",
+        "description": "Models.entityModels.registerConnectedUserToProviderModel",
+        "peekOfCode": "class RegisterConnectedUserToProviderModel(BaseModel):\n    provider_uuid: str\n    user_mac_address: str\n    user_ip_address: str",
+        "detail": "Models.entityModels.registerConnectedUserToProviderModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterProviderModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.registerProviderModel",
+        "description": "Models.entityModels.registerProviderModel",
+        "peekOfCode": "class RegisterProviderModel(BaseModel):\n    uuid:str\n    name:str\n    email:str\n    phoneNumber:str\n    password:str",
+        "detail": "Models.entityModels.registerProviderModel",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.registerUserModel",
+        "description": "Models.entityModels.registerUserModel",
+        "peekOfCode": "class RegisterUserModel(BaseModel):\n    name:str\n    phoneNumber:str",
+        "detail": "Models.entityModels.registerUserModel",
+        "documentation": {}
+    },
+    {
+        "label": "WalletRechargeOrWithdrawModel",
+        "kind": 6,
+        "importPath": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "description": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "peekOfCode": "class WalletRechargeOrWithdrawModel(BaseModel):\n    id:int \n    value:int",
+        "detail": "Models.entityModels.walletRechargeOrWithdrawModel",
+        "documentation": {}
+    },
+    {
+        "label": "DataObject",
+        "kind": 6,
+        "importPath": "Models.responseModels.dataObject",
+        "description": "Models.responseModels.dataObject",
+        "peekOfCode": "class DataObject():\n    def __init__(self, data):\n        self.data = data",
+        "detail": "Models.responseModels.dataObject",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseObject",
+        "kind": 6,
+        "importPath": "Models.responseModels.responseObject",
+        "description": "Models.responseModels.responseObject",
+        "peekOfCode": "class ResponseObject():\n    def __init__(self, status, message, data):\n        self.status = status\n        self.message = message\n        self.responseObject = DataObject(data)",
+        "detail": "Models.responseModels.responseObject",
+        "documentation": {}
+    },
+    {
+        "label": "userTableFunctions",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "userTableFunctions =  UserTable()\nproviderTableFunctions =  ProviderTable()\nproviderConnectedUsersTableFunctions =  ProviderConnectedUsersTable()\nproviderPackagesTableFunctions =  ProviderPackagesTable()\n# stripePayment = StripePayments()\nuserTableFunctions.createAndReturnUserTable()\nproviderTableFunctions.createAndReturnProviderTable()\nproviderPackagesTableFunctions.createAndReturnProviderTable()\nproviderConnectedUsersTableFunctions.createAndReturnProviderConnectedUsersTable()\n# providerConnectedUsersTableFunctions.deleteConnectedUsersTable()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "providerTableFunctions",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "providerTableFunctions =  ProviderTable()\nproviderConnectedUsersTableFunctions =  ProviderConnectedUsersTable()\nproviderPackagesTableFunctions =  ProviderPackagesTable()\n# stripePayment = StripePayments()\nuserTableFunctions.createAndReturnUserTable()\nproviderTableFunctions.createAndReturnProviderTable()\nproviderPackagesTableFunctions.createAndReturnProviderTable()\nproviderConnectedUsersTableFunctions.createAndReturnProviderConnectedUsersTable()\n# providerConnectedUsersTableFunctions.deleteConnectedUsersTable()\n# metaData = sqlalchemy.MetaData()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "providerConnectedUsersTableFunctions",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "providerConnectedUsersTableFunctions =  ProviderConnectedUsersTable()\nproviderPackagesTableFunctions =  ProviderPackagesTable()\n# stripePayment = StripePayments()\nuserTableFunctions.createAndReturnUserTable()\nproviderTableFunctions.createAndReturnProviderTable()\nproviderPackagesTableFunctions.createAndReturnProviderTable()\nproviderConnectedUsersTableFunctions.createAndReturnProviderConnectedUsersTable()\n# providerConnectedUsersTableFunctions.deleteConnectedUsersTable()\n# metaData = sqlalchemy.MetaData()\n# register = sqlalchemy.Table(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "providerPackagesTableFunctions",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "providerPackagesTableFunctions =  ProviderPackagesTable()\n# stripePayment = StripePayments()\nuserTableFunctions.createAndReturnUserTable()\nproviderTableFunctions.createAndReturnProviderTable()\nproviderPackagesTableFunctions.createAndReturnProviderTable()\nproviderConnectedUsersTableFunctions.createAndReturnProviderConnectedUsersTable()\n# providerConnectedUsersTableFunctions.deleteConnectedUsersTable()\n# metaData = sqlalchemy.MetaData()\n# register = sqlalchemy.Table(\n#     \"register\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\n# @app.on_event(\"startup\")\n# async def connect():\n#     await usersDatabase.connect()\n# @app.on_event(\"shutdown\")\n# async def shutdown():\n#     await usersDatabase.disconnect()\n## User APIS\n######################################################################################\n# @app.get(\"/Users\")",
+        "detail": "main",
+        "documentation": {}
+    }
+]
